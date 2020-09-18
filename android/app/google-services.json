@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "171131393791",
+    "firebase_url": "https://stores-connect.firebaseio.com",
+    "project_id": "stores-connect",
+    "storage_bucket": "stores-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:171131393791:android:d08255cf9818273ea15eca",
+        "android_client_info": {
+          "package_name": "com.storesconnect.storesconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "171131393791-3hb94vf8mo2c7loogovq7k3ci64bfd1m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoeGmbUtqFWIZzrDTv44uNgei_CQwp_IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "171131393791-3hb94vf8mo2c7loogovq7k3ci64bfd1m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
