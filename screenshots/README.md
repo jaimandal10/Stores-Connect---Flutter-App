@@ -1,3 +1,3 @@
 # Screenshots
 
-Screenshots of various screens
+Screenshots of some of the screens in the app.
