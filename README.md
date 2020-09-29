@@ -6,5 +6,4 @@ Front-end and back-end completed.
 
 # Screenshots
 Note that these are the screenshots of only a few screens.
-
-![alt text](/screenshots/home.png =250x)
+<img src="/screenshots/home.png" alt="home" width="200"/>
