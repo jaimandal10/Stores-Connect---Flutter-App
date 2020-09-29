@@ -7,4 +7,4 @@ Front-end and back-end completed.
 # Screenshots
 Note that these are the screenshots of only a few screens.
 
-![alt text](/screenshots/home.png)
+![alt text](/screenshots/home.png = 250)
