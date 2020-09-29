@@ -2,7 +2,8 @@
 
 An application that connects local stores with their customers through a chat interface. 
 
-Front-end and back-end completed.
+  -Front-end and back-end completed
+  -Firebase was used for backend
 
 # Screenshots
 *Note that these are the screenshots of only a few screens.*  
